@@ -2,6 +2,9 @@
 👩‍💻 Estudando JavaScript
 📧 Email: erica.ribeiro@hotmail.com
 
+
+<div style="display: inline_block"><br>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericapaiva&show_icons=false&theme=radical)
 
 
